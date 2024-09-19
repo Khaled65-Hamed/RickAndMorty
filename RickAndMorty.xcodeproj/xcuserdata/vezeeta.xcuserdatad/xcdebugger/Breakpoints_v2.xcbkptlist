@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0B4081A3-4F56-4102-86D1-F1AE33AF04CD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMorty/CurrencyExchangeApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getCharacters(pageNumber:onSuccess:onFailure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - e327b707b909a927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CurrenyExchangeRateResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getExchangeRates(onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - e327b707b909a927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CurrenyExchangeRateResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getExchangeRates(onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - e327b707b909a927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CurrenyExchangeRateResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getExchangeRates(onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - e327b707b909a927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CurrenyExchangeRateResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getExchangeRates(onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - 892e876d1fa7364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CurrenyExchangeRateResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getCharacters(pageNumber: Swift.Int, onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - 892e876d1fa7364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CurrenyExchangeRateResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getCharacters(pageNumber: Swift.Int, onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - 5bc4e9f77810ed88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CharacterResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getCharacters(pageNumber: Swift.Int, onSuccess: (RickAndMorty.CharacterResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "A7019590-3E00-48B8-8B86-5F9A759AC353 - 5bc4e9f77810ed88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RickAndMorty.CharacterResponseModelData, RickAndMorty.BaseNetworkError&gt;) -&gt; () in RickAndMorty.CurrencyExchangeApiGate.getCharacters(pageNumber: Swift.Int, onSuccess: (RickAndMorty.CharacterResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D88F73C8-100E-4079-959C-053AC4F680E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMorty/CurrencyExchangeApiGate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getCharacters(pageNumber:onSuccess:onFailure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D88F73C8-100E-4079-959C-053AC4F680E8 - 8d0cc1599e242a86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.CurrencyExchangeApiGate.getExchangeRates(onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "D88F73C8-100E-4079-959C-053AC4F680E8 - 8d0cc1599e242a86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.CurrencyExchangeApiGate.getExchangeRates(onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "D88F73C8-100E-4079-959C-053AC4F680E8 - 96e868b90c246894"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.CurrencyExchangeApiGate.getCharacters(pageNumber: Swift.Int, onSuccess: (RickAndMorty.CurrenyExchangeRateResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "D88F73C8-100E-4079-959C-053AC4F680E8 - 1fd88530ca8e88a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.CurrencyExchangeApiGate.getCharacters(pageNumber: Swift.Int, onSuccess: (RickAndMorty.CharacterResponseModelData) -&gt; (), onFailure: (RickAndMorty.BaseNetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/khalediOS/khaled%20study/RickAndMorty/RickAndMorty/CurrencyExchangeApiGate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02893082-0F9A-49F0-B865-0558FED0AD0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMorty/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getcurrencyRates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BF72245-17A6-4206-B4DE-D309A39FE3FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMorty/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getcurrencyRates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3994548A-5D30-457F-B183-C2EA70A7AA7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMorty/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getcurrencyRates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
